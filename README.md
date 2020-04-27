@@ -33,7 +33,7 @@
 
 <!-- Video text --> 
 	<div class="Video_Text"> 
-		<h1 style="color:white;">Favorite Quote </h1>
+		
 			<p> 
 				<strong>
 					<center>
@@ -53,11 +53,12 @@
 <!-- About section -->
 	<div class="Row" id="About" 
 		<div class="Column_2"> <!-- Left column -->
+	<h1 style="color:white;">Favorite Quote </h1>
 			
 		</div>
   
 		<div class="Column_1"> <!-- Right column -->
-			<h1>About
+			
 				<p>I am very new in this industry and as a young adult, I enjoy time with my family, friends and traveling. <br><br>I am an online student of <a href="https://www.learncodinganywhere.com" target="_blank">The Tech Academy</a>’s Software Developer Boot Camp, and I am being trained in the following web and programming languages: HTML, CSS, JavaScript, SQL and more. <br><br>I am not a full-stack developer but would love to work with you one day. <a href="#Contact">Contact</a> me below!</p>
 
 
