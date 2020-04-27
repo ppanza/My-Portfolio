@@ -57,14 +57,14 @@
 		</div>
   
 		<div class="Column_1"> <!-- Right column -->
-			<h1>About>
+			<h1>About
 				<p>I am very new in this industry and as a young adult, I enjoy time with my family, friends and traveling. <br><br>I am an online student of <a href="https://www.learncodinganywhere.com" target="_blank">The Tech Academy</a>’s Software Developer Boot Camp, and I am being trained in the following web and programming languages: HTML, CSS, JavaScript, SQLand more. <br><br>I am not a full-stack developer but would love to work with you one day. <a href="#Contact">Contact</a> me below!</p>
 
 
 
 	<div class="Row" id="My GitHub">
 		<div class="Column_1"> <!-- Left column -->
-			<h1>GitHub</h1>
+			
 				<p>You can view my coding projects on my GitHub profile here:<br>
 				<center><a href="https://github.com/ppanza" target="_blank">My GitHub</a></center></p>
 		</div>
@@ -81,7 +81,7 @@
 		</div>
 	
 		<div class="Column_1"> <!-- Contact form, right "column" -->
-			<h1>Contact</h2> 
+			<h1>Contact 
 				<form action="" method="get"> <!-- This specifies where to send the form data and how; it is left blank -->
 					<label>Name:</label>
 						<input type="text" placeholder="Please enter your name here">
