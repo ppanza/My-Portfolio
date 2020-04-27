@@ -57,7 +57,7 @@
 		</div>
   
 		<div class="Column_1"> <!-- Right column -->
-			<h1>About
+			<h1>About:
 				<p>I am very new in this industry and as a young adult, I enjoy time with my family, friends and traveling. <br><br>I am an online student of <a href="https://www.learncodinganywhere.com" target="_blank">The Tech Academy</a>’s Software Developer Boot Camp, and I am being trained in the following web and programming languages: HTML, CSS, JavaScript, SQL and more. <br><br>I am not a full-stack developer but would love to work with you one day. <a href="#Contact">Contact</a> me below!</p>
 
 
@@ -65,17 +65,17 @@
 	<div class="Row" id="My GitHub">
 		<div class="Column_1"> <!-- Left column -->
 			
-				<p>You can view my current and future projects on my GitHub profile here:<br>
+				<p>You can view my current projects on my GitHub profile here:<br>
 				<center><a href="https://github.com/ppanza" target="_blank">My GitHub</a></center></p>
 		</div>
 		
-		<div class="Column_2"> <!-- Right column -->
-			<a href="https://github.com/ppanza" target="_blank"><img src="Stylesheet/Images/GitHub.png" alt="GitHub"></a>
+		
 		</div>
 	</div>
 
 <!-- Contact section -->
 	<div class="Row" id="Contact"> 
+	
 		<div class="Column_3"> <!-- Contact image, left column -->
 			
 		</div>
