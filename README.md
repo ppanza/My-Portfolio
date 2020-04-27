@@ -91,8 +91,7 @@
 						<input type="text" id="Message" name="Message" placeholder="Please write your message here">
 						<input type="submit" value="Submit">
 				</form>
-		</div>
-	</div>
+
 	
 <!-- Footer section -->
 	
