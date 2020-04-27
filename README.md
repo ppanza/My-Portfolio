@@ -65,11 +65,11 @@
 			<h1>GitHub</h1>
 				<p>You can view my coding projects via the link down below:<br>
 				<center><a href="https://github.com/ppanza" target="_blank">My GitHub Profile</a></center></p>
-		
+		</div>
 		
 		<div class="Column_2"> <!-- Right column -->
 			<a href="https://github.com/ppanza" target="_blank"><img src="Stylesheet/Images/GitHub.png" alt="GitHub"></a>
-		
+		</div>
 	</div>
 
 <!-- Contact section -->
