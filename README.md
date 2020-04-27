@@ -56,11 +56,9 @@
 		</div>
   
 		<div class="Column_1"> <!-- Right column -->
-			<h1>About</h2>
+			<h1>About:
 				<p>I am very new in this industry and as a young adult, I enjoy time with my family, friends and traveling. <br><br>I am an online student of <a href="https://www.learncodinganywhere.com" target="_blank">The Tech Academy</a>’s Software Developer Boot Camp, and I am being trained in the following web and programming languages: HTML, CSS, JavaScript, SQL and more. <br><br>Again, I am an not expert but I am willing to learn more. <a href="#Contact">Contact</a> me below!</p>
-		</div>
-	</div>
-
+		
 <!-- GitHub section -->
 	<div class="Row" id="GitHub">
 		<div class="Column_1"> <!-- Left column -->
