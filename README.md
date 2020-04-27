@@ -53,7 +53,7 @@
 <!-- About section -->
 	<div class="Row" id="About" 
 		<div class="Column_2"> <!-- Left column -->
-			
+		        <h1 style="color:white;">About </h1>	
 		</div>
   
 		<div class="Column_1"> <!-- Right column -->
@@ -65,7 +65,7 @@
 	<div class="Row" id="My GitHub">
 		<div class="Column_1"> <!-- Left column -->
 			
-				<p>You can view my coding projects on my GitHub profile here:<br>
+				<p>You can view my current and future projects on my GitHub profile here:<br>
 				<center><a href="https://github.com/ppanza" target="_blank">My GitHub</a></center></p>
 		</div>
 		
