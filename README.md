@@ -51,7 +51,7 @@
 	</div>
 
 <!-- About section -->
-	<div class="Row" id="About"> 
+	<div class="Row" id="About" 
 		<div class="Column_2"> <!-- Left column -->
 			
 		</div>
@@ -81,7 +81,7 @@
 		</div>
 	
 		<div class="Column_1"> <!-- Contact form, right "column" -->
-			<h1>Contact</h2> 
+			<h1>Contact 
 				<form action="" method="get"> <!-- This specifies where to send the form data and how; it is left blank -->
 					<label>Name:</label>
 						<input type="text" placeholder="Please enter your name here">
